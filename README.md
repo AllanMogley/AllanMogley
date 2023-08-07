@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 - ⚡ **"May The 'Code' be with You ..."**
--             *Luke SkyCoder (1300BC)*
+                 *Luke SkyCoder (1300BC)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
