@@ -1,11 +1,12 @@
 <h1 align="center">Hello 👋, I'm Allan Mogley</h1>
 <h3 align="left">Am from Nairobi Kenya</h3>
 
-- 🔭 I’m currently working on **Project SpaceTrack**
+- 🔭 I’m currently working on **TinyFarm**
 
-- 👯 I’m looking to collaborate on **Machine Learning Tasks**
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- ⚡ **May The 'Code' be with You ...**
+- ⚡ **"May The 'Code' be with You ..."**
+-             *Luke SkyCoder (1300BC)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
